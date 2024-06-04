@@ -1,1 +1,2 @@
 Datoteka1
+Nova linija u datoteci1
