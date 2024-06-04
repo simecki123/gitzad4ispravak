@@ -1,3 +1,3 @@
 Datoteka1
 Konflikt linija
-Nova linija iz razvojne grane
+
